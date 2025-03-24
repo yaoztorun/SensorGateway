@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/admin/Documents/Project/IPC_FINAL/allcodes/FINAL PROJECT/studentsource2024",
+      "program": "/Users/admin/Documents/Project/IPC_FINAL/allcodes/FINAL PROJECT/studentsource2024/build/Debug/outDebug"
+    }
+  ]
+}
